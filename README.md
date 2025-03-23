@@ -79,6 +79,12 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 
+## 🪴 Практика и стажировка
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+
+<br>
+<br>
+
 ## 🎒 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/AlexEr-QA/AlexEr-QA/refs/heads/main/certificate.png)
 
