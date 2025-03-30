@@ -91,6 +91,12 @@
 <br>
 <br>
 
+## Рекомендация
+[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендация">](https://raw.githubusercontent.com/AlexEr-QA/AlexEr-QA/refs/heads/main/recommendation.png)
+
+<br>
+<br>
+
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:eroskin@inbox.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AlexEr_QA)
